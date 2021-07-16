@@ -3,7 +3,7 @@
 
 - 🌱 Estoy aprendiendo constantemente **nuevos frameworks y librerías para el frontend**
 
-- 📫 Puedes escribir en mi correo: **axelfelix123@hotmail.com**
+<!-- - 📫 Puedes escribir en mi correo: **axelfelix123@hotmail.com** -->
 
 
 <h3 align="left">Lenguajes y tecnologías que he manejado:</h3>
