@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋, Soy Axel! 😎</h1>
-<h3 align="center">Me gusta muchísimo el desarrollo frontend desde el diseño con mockups hasta llegar a hacer el código</h3>
+<h3 align="center">Me gusta el desarrollo frontend desde el diseño con mockups hasta llegar a hacer el código</h3>
 
 - 🌱 Estoy aprendiendo constantemente **nuevos frameworks y librerías para el frontend**
 
